@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2021-01-27T07:47:14.359Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" version="14.2.7" etag="Y80nc3p0qnfY-jM6hDuy" type="github"><diagram id="1sULQnTYJxaTtpwsfLGP">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-27T08:16:07.591Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="vo3TXqoQi69G-o_mVKom" version="14.2.7" type="github">
+  <diagram id="1sULQnTYJxaTtpwsfLGP" name="Page-1">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="R7bbdqwvjP-5xoVpqVJW-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="70" width="230" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="R7bbdqwvjP-5xoVpqVJW-11" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;strokeColor=#888888;fillColor=#444444;" vertex="1" parent="1">
+          <mxGeometry x="330" y="110" width="210" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="R7bbdqwvjP-5xoVpqVJW-12" value="PROGETTARE ONLINE&lt;br&gt;23/02/2021&lt;br&gt;12:00-14:00" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#ffffff;" vertex="1" parent="R7bbdqwvjP-5xoVpqVJW-11">
+          <mxGeometry width="210" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="R7bbdqwvjP-5xoVpqVJW-13" value="EVENTO BUSSINESS&lt;br&gt;04/05/2021&lt;br&gt;09:00-14:00" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#ffffff;" vertex="1" parent="R7bbdqwvjP-5xoVpqVJW-11">
+          <mxGeometry y="85" width="210" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="R7bbdqwvjP-5xoVpqVJW-14" value="PROGETTAZIONE SUL LAVORO&lt;br&gt;29/11/2021&lt;br&gt;15:00-21:00&lt;br&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#ffffff;" vertex="1" parent="R7bbdqwvjP-5xoVpqVJW-11">
+          <mxGeometry y="170" width="210" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="R7bbdqwvjP-5xoVpqVJW-15" value="STARTUP ONLINE&lt;br&gt;15/06/2021&lt;br&gt;13:00-17:00" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#ffffff;" vertex="1" parent="R7bbdqwvjP-5xoVpqVJW-11">
+          <mxGeometry y="255" width="210" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="R7bbdqwvjP-5xoVpqVJW-20" value="partecipa" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="R7bbdqwvjP-5xoVpqVJW-11">
+          <mxGeometry x="120" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="R7bbdqwvjP-5xoVpqVJW-21" value="partecipa" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="R7bbdqwvjP-5xoVpqVJW-11">
+          <mxGeometry x="120" y="117.5" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="R7bbdqwvjP-5xoVpqVJW-22" value="partecipa" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="R7bbdqwvjP-5xoVpqVJW-11">
+          <mxGeometry x="120" y="210" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="R7bbdqwvjP-5xoVpqVJW-24" value="partecipa" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="R7bbdqwvjP-5xoVpqVJW-11">
+          <mxGeometry x="120" y="287.5" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
